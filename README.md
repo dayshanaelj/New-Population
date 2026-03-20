@@ -1,4 +1,3 @@
-Try AI directly in your favourite apps … Use Gemini to generate drafts and refine content, plus get Gemini Pro with access to Google's next-gen AI for US$19.99 US$0 for 1 month
 
 /*Description: 
 *I am creating a class that is extended to the LocatedPlace class so that is able to access the.
